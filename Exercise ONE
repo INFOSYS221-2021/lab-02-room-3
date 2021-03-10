@@ -17,7 +17,8 @@ If yes, Go repeat the process to find another suitable strategy
 PROBLEM 5 
 
 step 1
-Understand the equation and factors, need to use plus minus times and divide to get to 8
+Understand the equation and factors, need to use plus minus times and divide to get to 8.
+Mathematical problem, Can have more than one solutions
 
 step 2: strategy
 Trial and error
@@ -29,4 +30,5 @@ Stop when solution is reached
 we found that (3 + 1) / (3 / 6) = 8
 
 step 4
-Look back to see if solution is correct
+Is the solution optimal? Can it be done with fewer steps?
+
