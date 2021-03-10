@@ -20,3 +20,9 @@ Use the bus to get there.
 Look back to see if there were any major troubles during the journey. 
 If not this is the optimal strategy
 If yes, repeat the process to find another suitable strategy
+
+Questioin 5
+- Step 1: understand what arithmetic operators do
+- Step 2: try and error & think
+- Step 3: solve (3+1) / (3/6) = 8
+- Step 4: if there are other solution to this
