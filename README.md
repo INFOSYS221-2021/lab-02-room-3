@@ -1,6 +1,6 @@
-Andrew Bolton
-Mahir Chand
-Henry Chen
-Jack Prescott
-Komal Jabbar
-Sanskrita Dsarma
+Andrew Bolton,
+Mahir Chand,
+Henry Chen,
+Jack Prescott,
+Komal Jabbar,
+Sanskrita Dsarma,
