@@ -22,10 +22,10 @@ If not this is the optimal strategy
 If yes, repeat the process to find another suitable strategy
 
 Questioin 5
-Step 1: Understand Mathematical problem, Can have more than one solutions
+- Step 1: Understand Mathematical problem, Can have more than one solutions
 
-Step 2: Strategy Trial and Error, dur to the time constraint, stop when you get one solution
+- Step 2: Strategy Trial and Error, dur to the time constraint, stop when you get one solution
 
-Step 3: Solve (3 + 1) / (3 / 6) = 8
+- Step 3: Solve (3 + 1) / (3 / 6) = 8
 
-Step 4: Look Back Is the solution optimal? Can it be done with fewer steps?
+- Step 4: Look Back Is the solution optimal? Can it be done with fewer steps?
